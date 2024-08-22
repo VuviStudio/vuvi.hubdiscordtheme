@@ -681,7 +681,7 @@ span[class="inner-26JK4f"] > * {
 
 /*welcome text*/
 .theme-dark body:before {
-    content: "Greetings " var(--user-name) "!";
+    content: "Hello vuvi ur a " var(--user-name) "!";
     z-index: 1000000000000000000000000;
     color: #fff;
     background-color: #0000007a;
@@ -882,7 +882,7 @@ span:not(.spinner-item) {
 }
 
 #app-mount .info_c5a741 .line_c5a741:last-child:after {
-    content: "Chillax " var(--cl-appearance) " 🎮";
+    content: "vuvi.hub " var(--cl-appearance) " 🎮";
     display: block;
 }
 
